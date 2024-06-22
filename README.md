@@ -21,4 +21,5 @@ To use the **People Counter using YOLOv8**:
        https://github.com/hamasli/People-Counter-using-YOLOv8/
    ```bash
   
-   cd People-Counter-using-YOLOv8
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hamas-ali-raja-2a5822277) for more projects and collaborations.
