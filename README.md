@@ -18,8 +18,9 @@ This project utilizes YOLOv8, a powerful object detection model, to detect and l
 To use the **People Counter using YOLOv8**:
 
 1. **Clone the Repository**: Clone the repository to your local machine.
-       https://github.com/hamasli/People-Counter-using-YOLOv8/
    ```bash
+    https://github.com/hamasli/People-Counter-using-YOLOv8/
+   cd People-Counter-using-YOLOv8
   
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hamas-ali-raja-2a5822277) for more projects and collaborations.
